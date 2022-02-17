@@ -523,7 +523,7 @@ a {
   flex-direction: column;
 }
 
-/* line 12, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_navigation.scss */
+/* line 10, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_navigation.scss */
 .nav-link {
   text-align: center;
   border-radius: 5px;
@@ -533,7 +533,7 @@ a {
   transition: background-color .2s ease-in-out,  color .2s ease-in-out;
 }
 
-/* line 23, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_navigation.scss */
+/* line 20, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_navigation.scss */
 .nav-link:hover {
   color: #fff;
   background-color: #58e1c1;
@@ -609,28 +609,32 @@ a {
 /* ============================================= */
 /*              Images                           */
 /* ============================================= */
-/* line 6, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
-.img-avatar, .img-frame, .img-logo {
+/* line 5, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
+.img-avatar {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-/* line 13, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
-.img-avatar, .img-frame {
   margin-top: 10px;
   max-width: 100%;
-}
-
-/* line 18, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
-.img-avatar {
   max-height: 100%;
 }
 
-/* line 21, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
-.img-frame {
+/* line 12, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
+.img-avatar-frame {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  max-width: 100%;
   padding: 13px;
   border: 1px solid #ccc;
+}
+
+/* line 21, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
+.img-avatar-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ============================================= */
