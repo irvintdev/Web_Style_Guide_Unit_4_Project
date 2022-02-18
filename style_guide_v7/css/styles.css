@@ -1,3 +1,9 @@
+/* ============================================= */
+/*              Mixins                           */
+/* ============================================= */
+/* ============================================= */
+/*              Variables                           */
+/* ============================================= */
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -609,7 +615,7 @@ a {
 /* ============================================= */
 /*              Images                           */
 /* ============================================= */
-/* line 5, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
+/* line 6, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
 .img-avatar {
   display: block;
   margin-left: auto;
@@ -619,8 +625,8 @@ a {
   max-height: 100%;
 }
 
-/* line 12, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
-.img-avatar-frame {
+/* line 10, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
+.img-frame {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -630,8 +636,8 @@ a {
   border: 1px solid #ccc;
 }
 
-/* line 21, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
-.img-avatar-logo {
+/* line 15, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_images.scss */
+.img-logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
