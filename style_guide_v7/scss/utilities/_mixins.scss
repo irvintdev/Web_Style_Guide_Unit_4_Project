@@ -13,3 +13,10 @@
     margin-top: 10px;
     max-width: 100%;
 }
+
+@mixin background-color-and-hover($color) {
+    background-color: $color;
+    &:hover {
+        background-color: lighten($color , 15%);
+    }
+}

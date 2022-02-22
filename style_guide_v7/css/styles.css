@@ -564,9 +564,19 @@ a {
   background-color: #51ddfc;
 }
 
+/* line 19, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/utilities/_mixins.scss */
+.default:hover {
+  background-color: #9cecfd;
+}
+
 /* line 19, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_buttons.scss */
 .error {
   background-color: #e4757a;
+}
+
+/* line 19, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/utilities/_mixins.scss */
+.error:hover {
+  background-color: #f1b5b8;
 }
 
 /* line 23, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_buttons.scss */
@@ -574,14 +584,29 @@ a {
   background-color: #927bc1;
 }
 
+/* line 19, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/utilities/_mixins.scss */
+.info:hover {
+  background-color: #bdafd9;
+}
+
 /* line 27, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_buttons.scss */
 .success {
   background-color: #63cc82;
 }
 
+/* line 19, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/utilities/_mixins.scss */
+.success:hover {
+  background-color: #9ddfb0;
+}
+
 /* line 31, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/component/_buttons.scss */
 .warning {
   background-color: #fd7856;
+}
+
+/* line 19, ../../../../../Users/irvin/Documents/GitHub/Web_Style_Guide_Unit_4_Project/style_guide_v7/scss/utilities/_mixins.scss */
+.warning:hover {
+  background-color: #feb4a2;
 }
 
 /* ============================================= */

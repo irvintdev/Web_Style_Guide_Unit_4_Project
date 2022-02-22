@@ -13,21 +13,21 @@
   }
   
   .default {
-    background-color: $color-cyan;
+    @include background-color-and-hover($color-cyan);
   }
   
   .error {
-    background-color: $color-red;
+    @include background-color-and-hover($color-red)
   }
   
   .info {
-    background-color: $color-violet;
+    @include background-color-and-hover($color-violet)
   }
   
   .success {
-    background-color: $color-green;
+    @include background-color-and-hover($color-green)
   }
   
   .warning {
-    background-color: $color-orange;
+    @include background-color-and-hover($color-orange)
   }
